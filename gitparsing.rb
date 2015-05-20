@@ -1,6 +1,6 @@
 # Pre
 # 1) Threads in ruby
-# 2) GIL (mutex lock) http://www.tutorialspoint.com/ruby/ruby_multithreading.html
+# 2) GIL (mutex lock) http://www.tutorialspoint.com/ruby/ruby_multithreading.htm
 # 3) http://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html
 
 # Find a given user total number of public commits over the
